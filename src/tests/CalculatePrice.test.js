@@ -1,4 +1,4 @@
-import CalculatePrice from './CalculatePrice'
+import CalculatePrice from '../components/CalculatePrice'
 
 describe('Test CalculatePrice 01', () => {
   it('value should match', () => {

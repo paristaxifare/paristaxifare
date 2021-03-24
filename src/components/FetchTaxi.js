@@ -11,8 +11,6 @@ const FetchTaxi = ()  => {
     .json()
     .then(res => setTaxis(res))
     .catch(err => setErrors(err));
-
-    console.log("FETCH")
 }
   useEffect(() => {
     fetchData();
