@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fb8b833.chunk.css",
+    "main.css": "/static/css/main.1ded1422.chunk.css",
     "main.js": "/static/js/main.a34ca998.chunk.js",
     "main.js.map": "/static/js/main.a34ca998.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b9cd619.js",
@@ -10,14 +10,14 @@
     "static/js/3.6c3b5072.chunk.js": "/static/js/3.6c3b5072.chunk.js",
     "static/js/3.6c3b5072.chunk.js.map": "/static/js/3.6c3b5072.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1fb8b833.chunk.css.map": "/static/css/main.1fb8b833.chunk.css.map",
+    "static/css/main.1ded1422.chunk.css.map": "/static/css/main.1ded1422.chunk.css.map",
     "static/js/2.8f4a7100.chunk.js.LICENSE.txt": "/static/js/2.8f4a7100.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/taxi.32420200.png"
+    "static/media/App.css": "/static/media/quaidescene.9a29f78e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9b9cd619.js",
     "static/js/2.8f4a7100.chunk.js",
-    "static/css/main.1fb8b833.chunk.css",
+    "static/css/main.1ded1422.chunk.css",
     "static/js/main.a34ca998.chunk.js"
   ]
 }
