@@ -1,10 +1,9 @@
 function CalculateEndTime(props){
-    let startTime = new Date(props.startTime)
+    const startTime = new Date(props.startTime)
     console.log("startTime:" + startTime )
-    let duration = props.duration
-    let endTime = startTime
+    const duration = props.duration
+    const endTime = startTime
     endTime.setSeconds(endTime.getSeconds() + duration);
-    startTime = new Date(props.startTime)
     console.log("endTime:" + endTime )
     return endTime;
   }
