@@ -6,7 +6,7 @@ const FetchTaxi = ()  => {
   const  [taxis,setTaxis ]= useState([]);
 
   async function fetchData() {
-    const res = await fetch("https://api.mocki.io/v1/137f4ea6");
+    const res = await fetch("https://test001.free.beeceptor.com/taxis");
     res
     .json()
     .then(res => setTaxis(res))
