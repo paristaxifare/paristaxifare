@@ -6,7 +6,7 @@ const FetchTaxi = ()  => {
   const  [taxis,setTaxis ]= useState([]);
 
   async function fetchData() {
-    const res = await fetch("https://test001.free.beeceptor.com/taxis");
+    const res = await fetch("http://localhost:8080/taxis");
     res
     .json()
     .then(res => setTaxis(res))
